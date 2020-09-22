@@ -1,0 +1,10 @@
+E:\Mia_Projects\ipcameraoverlay\ipcameraoverlay\bin\Debug\ipcameraoverlay.exe.config
+E:\Mia_Projects\ipcameraoverlay\ipcameraoverlay\bin\Debug\ipcameraoverlay.exe
+E:\Mia_Projects\ipcameraoverlay\ipcameraoverlay\bin\Debug\ipcameraoverlay.pdb
+E:\Mia_Projects\ipcameraoverlay\ipcameraoverlay\obj\Debug\ipcameraoverlay.csprojAssemblyReference.cache
+E:\Mia_Projects\ipcameraoverlay\ipcameraoverlay\obj\Debug\ipcameraoverlay.Form1.resources
+E:\Mia_Projects\ipcameraoverlay\ipcameraoverlay\obj\Debug\ipcameraoverlay.Properties.Resources.resources
+E:\Mia_Projects\ipcameraoverlay\ipcameraoverlay\obj\Debug\ipcameraoverlay.csproj.GenerateResource.cache
+E:\Mia_Projects\ipcameraoverlay\ipcameraoverlay\obj\Debug\ipcameraoverlay.csproj.CoreCompileInputs.cache
+E:\Mia_Projects\ipcameraoverlay\ipcameraoverlay\obj\Debug\ipcameraoverlay.exe
+E:\Mia_Projects\ipcameraoverlay\ipcameraoverlay\obj\Debug\ipcameraoverlay.pdb
